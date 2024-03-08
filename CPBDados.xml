@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="postagemPrmCpltloCP.xsl" ?>
+<!-- postagemPrmCptloCP.xsl ||||  postagemSinopseCP.xsl |||| postagemSimplesCP.xsl -->
+<!-- transforme com: https://www.freeformatter.com/xsl-transformer.html -->
+<!DOCTYPE ebooks [
+<!ELEMENT ebooks ANY>
+<!ELEMENT ebooks (ebook)>
+<!ELEMENT ebook (id,titulo,autor,isbn?,cat,categorias,qtdpag,sinopse,preco,linkCapa,linkSinopse,linkPrimCptlo?,linkComprar,linkRecrutamento?,hotreview?,linkPrimCptloCP?,linkSinopseCP?,linkSimplesCP?)>
+<!ELEMENT categorias (categoria*)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT isbn (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>
+<!ELEMENT qtdpag (#PCDATA)>
+<!ELEMENT sinopse (#PCDATA)>
+<!ELEMENT preco (#PCDATA)>
+<!ELEMENT linkCapa (#PCDATA)>
+<!ELEMENT linkSinopse (#PCDATA)>
+<!ELEMENT linkPrimCptlo (#PCDATA)>
+<!ELEMENT linkComprar (#PCDATA)>
+<!ELEMENT linkRecrutamento (#PCDATA)>
+<!ELEMENT hotreview (#PCDATA)>
+<!ELEMENT linkPrimCptloCP (#PCDATA)>
+<!ELEMENT linkSinopseCP (#PCDATA)>
+<!ELEMENT linkSimplesCP (#PCDATA)>
+
+]>
+	<ebooks>
+		<ebook ID="505">
+		<id>1</id>
+		<titulo>Orgulho e Preconceito</titulo>
+		<autor>Jane Austen</autor>
+		<isbn>978-85-66798-18-0</isbn>
+<cat>Romance, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Romance</categoria><categoria>Literatura Universal</categoria>
+		</categorias>
+		<qtdpag>372</qtdpag>
+		<sinopse>Inglaterra, 1797. As cinco irmãs Bennet - Elizabeth, Jane, Lydia, Mary e Kitty foram criadas por uma mãe que tinha fixação em lhes encontrar maridos que garantissem seu futuro. Porém, Elizabeth deseja ter uma vida mais ampla do que apenas se dedicar ao marido, sendo apoiada pelo pai. Quando o Sr. Bingley, um solteiro rico, passa a morar em uma mansão vizinha, as irmãs logo ficam agitadas. Jane logo parece que irá conquistar o coração do novo vizinho... Jane Austen é considerada a primeira romancista moderna da literatura inglesa. Assim como em outras obras de Austen, o livro é escrito de forma satírica. "Orgulho e Preconceito", pode ser considerado como especial porque transcende o preconceito causado pelas falsas primeiras impressões e adentra no psicológico, mostrando como o auto-conhecimento pode interferir nos julgamentos errôneos...</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://4.bp.blogspot.com/-5ilPIqo9oUw/XLpPaFLBp9I/AAAAAAAASCE/3zacrno_dDMwF_vwRjB0aw7b9R7cA72kQCLcBGAs/s1600/cover_minejpgOrgulhoePreconceito.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-orgulho-e-preconceito.html</linkSinopse>
+		<linkPrimCptlo>http://carlosalves77.blogspot.com/2011/06/primeiro-capitulo-orgulho-e-preconceito.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C6741C</linkComprar>
+		<linkRecrutamento>http://www.hotmart.com.br/recruit.html?to=9242O6762</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/06/primeiro-capitulo-e-preconceito-de-jane.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-orgulho-e-preconceito.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/orgulho-e-preconceito.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="524">
+		<id>2</id>
+		<titulo>Peter Pan</titulo>
+		<autor>J. M. Barrie</autor>
+		<isbn>978-85-66798-22-7</isbn>
+<cat>Aventura, Infanto-Juvenil, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Aventura</categoria><categoria>Infanto-Juvenil</categoria>
+		</categorias>
+		<qtdpag>143</qtdpag>
+		<sinopse>Estranhas folhas de árvore no chão do quarto das crianças, um menino, vestido de folhas e de limo, que aparece subitamente... Bem que a intuição da senhora Darlin lhe dizia que algo estava para acontecer. Logo, seus filhos estariam envolvidos numa incrível viagem à Terra do Nunca, onde os adultos não entram e de onde muitas crianças não voltam jamais!</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://1.bp.blogspot.com/-9paajAfLcfA/XLnjMqQ56MI/AAAAAAAASAc/q3Vl6tq8WG0w691jeYA3nY6Z9TxozzYHgCLcBGAs/s1600/coverMinejpg.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-peter-pan.html</linkSinopse>
+		<linkPrimCptlo>http://carlosalves77.blogspot.com/2011/06/primeiro-capitulo-peter-pan-de-j-m.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C7460C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/7497P7481</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/06/primeiro-capitulo-pan-de-j-m-barrie.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-peter-pan.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/peter-pan.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="527">
+		<id>3</id>
+		<titulo>Frankestein</titulo>
+		<autor>Mary Shelley</autor>
+		<isbn>978-85-66798-26-5</isbn>
+<cat>Terror, Terror Gótigo, Clássico, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Terror</categoria><categoria>Terror Gótico</categoria><categoria>Clássico</categoria>
+		</categorias>	
+		<qtdpag>236</qtdpag>
+		<sinopse>Mary Shelley (1797-1851), mulher do poeta inglês Percy B. Shelley, escreveu Frankenstein para participar de um concurso de histórias de terror realizado na intimidade do castelo de Lord Byron. Mesmo competindo com grandes gênios da literatura universal, acabou redigindo esta que é uma das mais impressionantes histórias de horror de todos os tempos. A história do dr. Victor Frankenstein e da monstruosa criatura por ele concebida vem fascinando gerações desde que foi publicada há mais de cem anos. Brilhante história de horror, escrita com fervor quase alucinatório, Frankenstein representa um dos mais estranhos florescimentos da imaginação romântica. Frankenstein, de Mary Shelley, é um dos maiores clássicos de terror da literatura em todos os tempos.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-9z5enA8uO0M/VexZGcDKtFI/AAAAAAAACgc/6cCjB2soby0/s512-Ic42/frankestein.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-frankestein.html</linkSinopse>
+		<linkPrimCptlo>http://carlosalves77.blogspot.com/2011/06/primeiro-capitulo-frankestein-de-mary.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C7473C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/3185F7494</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/06/primeiro-capitulo-de-mary-shelley.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-frankestein.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/frankestein.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="541">
+		<id>4</id>
+		<titulo>Drácula</titulo>
+		<autor>Bram Stocker</autor>
+		<isbn>978-85-66798-12-8</isbn>
+<cat>Terror, Ficção de Terror, Clássico, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digigal</categoria><categoria>Terror</categoria><categoria>Ficção de Terror</categoria><categoria>Clássico</categoria>
+		</categorias>
+		<qtdpag>196</qtdpag>
+		<sinopse>Romance de 1897 escrito pelo autor irlandês Bram Stoker, tendo como protagonista o vampiro Conde Drácula. Sem dúvida trata-se do mais famoso conto de vampiros da literatura. Drácula tem sido designado como vários gêneros literários, incluindo literatura de vampiros, ficção de horror e romance gótico. Estruturalmente, é um romance epistolar, ou seja, contada como uma série de cartas, entradas de diário, registros de bordo etc. Embora Stoker não tenha inventado o vampiro, a influência do romance na popularidade dos vampiros foi singularmente responsável por muitas peças de teatro, cinema, televisão e muitas interpretações ao longo dos séculos 20 e 21.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-CsiFoTXtib0/VexYV3J3FeI/AAAAAAAACgM/fIHWEdDR_rw/s512-Ic42/dracula_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-dracula.html</linkSinopse>
+		<linkPrimCptlo>http://carlosalves77.blogspot.com/2011/06/primeiro-capitulo-dracula-de-bram.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C7646C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/1192D7667</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/06/primeiro-capitulo-de-bram-stocker.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-dracula.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/dracula.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="553">
+		<id>5</id>
+		<titulo>A Máquina do Tempo</titulo>
+		<autor>H. G. Wells</autor>
+		<isbn>978-85-66798-04-3</isbn>
+<cat>Aventura, Ficção Científica, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Ficção Científica</categoria><categoria>Aventura</categoria><categoria>Literatura Universal</categoria>
+		</categorias>	
+		<qtdpag>114</qtdpag>
+		<sinopse>Um cientista constrói a primeira máquina de viajar no Tempo e com ela percorre as diversas etapas da civilização humana, até chegar ao longínquo futuro, que ele supõe ser a Idade de Ouro da humanidade. O homem venceu a Natureza e o mundo inteiro é um jardim. O trabalho, as doenças, a guerra, a competição econômica e social parecem ter desaparecido. A nova raça vive exclusivamente para o amor e a diversão, ninguém envelhece. Mas como funciona essa sociedade? Quem a sustenta? De onde vêm os belos tecidos com que todos se vestem? E que são, ou quem são, esses animais noturnos que os habitantes do Mundo Superior tanto temem? Pouco a pouco, o Viajante do Tempo toma contato com a verdadeira realidade desse mundo do futuro, que de risonho e bucólico se converte num cenário de pesadelo.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-hPrk7msGG4M/VexX31rn1hI/AAAAAAAACf8/SJtqFPv91rA/s512-Ic42/cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-maquina-do-tempo.html</linkSinopse>
+		<linkPrimCptlo>http://carlosalves77.blogspot.com/2011/05/primeiro-capitulo-maquina-do-tempo-de-h.html</linkPrimCptlo>
+		<linkComprar>https://app.monetizze.com.br/checkout/KDV63635</linkComprar>
+		<linkRecrutamento></linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/05/primeiro-capitulo-maquina-do-tempo-de-h.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/06/sinopse-maquina-do-tempo.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/06/a-maquina-do-tempo.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="560">
+		<id>6</id>
+		<titulo>Robinson Crusoé</titulo>
+		<autor>Daniel Defoe</autor>
+		<isbn>978-85-66798-23-4</isbn>
+<cat>Aventura, Clássico, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Aventura</categoria><categoria>Literatura Universal</categoria><categoria>Clássico</categoria>
+		</categorias>
+		<qtdpag>96</qtdpag>
+		<sinopse>Em Robinson Crusoé, Defoe nos oferece o mais digno conceito de educação natural. Inspirado num caso verdadeiro, o livro narra a história de um homem que se vê abandonado numa ilha deserta e que, à força da coragem e da perseverança, consegue vencer todas as dificuldades e viver feliz, mesmo longe da civilização.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-K-1-VnxtzIs/VexajLS0t4I/AAAAAAAACg8/mD-e_f7tnmc/s512-Ic42/RobinsonCrusoe_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-robinson-crusoe.html</linkSinopse>
+		<linkPrimCptlo>http://carlosalves77.blogspot.com/2011/06/primeiro-capitulo-robinson-crusoe-de.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C8138C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/4732R8159</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/06/primeiro-capitulo-crusoe-de-daniel.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-robinson-crusoe.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/robinson-crusoe.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="569">
+		<id>7</id>
+		<titulo>A Ilha do Dr Moreau</titulo>
+		<autor>H. G. Wells</autor>
+		<isbn>978-85-66798-03-6</isbn>
+<cat>Suspense, Ficção Científica, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Ficção Científica</categoria><categoria>Suspense</categoria><categoria>Literatura Universal</categoria>
+		</categorias>
+		<qtdpag>140</qtdpag>
+		<sinopse>Romance científico em que nos introduz em um universo fantástico povoado de seres horríveis, resultado da mente fantástica e perversa de um cientista. Edward Prendick, um jovem naturalista vítima de naufrágio, vê-se retido numa ilha do Pacífico onde o Dr. Moreau, assessorado por um assistente, leva a cabo experiência sinistras, originando criaturas incríveis, meio humanas, meio animais. E, numa situação em que o Homem assume um papel que de momento o ultrapassa, o de Criador, as consequências não tardam a manifestar-se de um modo incontrolável e inesperado.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-mTDNM6WgBj4/VexXudgS6gI/AAAAAAAACf0/jKH0GogBg3E/s360-Ic42/cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-ilha-do-dr-moreau.html</linkSinopse>
+		<linkPrimCptlo>http://carlosalves77.blogspot.com/2011/05/primeiro-capitulo-ilha-do-dr-moreau-de.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C8435C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/7981A8456</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/05/primeiro-capitulo-ilha-do-dr-moreau-de.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-ilha-do-dr-moreau.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/a-ilha-do-dr-moreau.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="695">
+		<id>8</id>
+		<titulo>A Metamorfose</titulo>
+		<autor>Franz Kafka</autor>
+		<isbn>978-85-66798-06-7</isbn>
+<cat>Drama, Literatura Fantástica, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Drama</categoria><categoria>Livro Digital</categoria><categoria>Literatura Fantástica</categoria><categoria>Literatura Universal</categoria>
+		</categorias>
+		<qtdpag>57</qtdpag>
+		<sinopse>Numa manhã, ao acordar para o trabalho, Gregor vê que se transformou num inseto horrível com um dorso duro e inúmeras patas. A princípio, as suas preocupações passam por pensamentos práticos relacionados com a sua metamorfose. Depois, as preocupações passam para um estado mais psicológico e até mesmo sentimental. Apenas a irmã se digna a levar-lhe a alimentação, mas mesmo assim a repulsa e o medo também começam a se manifestar. A metamorfose de Gregor vai além da modificação física. É sobretudo uma alteração de comportamentos, atitudes, sentimentos e opiniões.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-N8ZmnYwhBs8/VexaWb_xIAI/AAAAAAAACg0/-VF43G7Qjc4/s481-Ic42/AMetamorfose_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-metamorfose.html</linkSinopse>
+		<linkPrimCptlo>http://carlosalves77.blogspot.com/2011/05/primeiro-capitulo-metamorfose-de-franz.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C12095C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/5955A12116</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/05/primeiro-capitulo-metamorfose-de-franz.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-metamorfose.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/a-metamorfose.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="719">
+		<id>9</id>
+		<titulo>A Arte da Guerra</titulo>
+		<autor>Sun Tzu</autor>
+		<isbn>978-85-66798-31-9</isbn>
+<cat>Ciências Humanas Sociais, Administração, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Ciências Humanas e Sociais</categoria><categoria>Administração</categoria>
+		</categorias>
+		<qtdpag>74</qtdpag>
+		<sinopse>A Arte da Guerra é um tratado composto por treze capítulos, onde em cada capítulo é abordado um aspecto da estratégia de guerra, de modo a compor um panorama de todos os eventos e estratégias que devem ser abordados em um combate racional. Como em "O Príncipe", de Maquiavel, o livro de Sun Tzu, pode, da mesma forma, mostrar o caminho da vitória em todas as espécies de conflitos comerciais comuns, batalhas em sala de diretoria e na luta pela sobrevivência, que todos enfrentamos. São todas as formas de guerra, todas combatem sob as mesmas regras. Assim, o livro migrou das estantes dos estrategistas para as dos economistas e do administradores.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-SJlhQpsfD7w/VexZYczlGOI/AAAAAAAACgY/diWc6_1zp0E/s512-Ic42/a%252520arte%252520da%252520guerra.PNG</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/04/sinopse-arte-da-guerra.html</linkSinopse>
+		<linkPrimCptlo>http://carlosalves77.blogspot.com/2011/06/primeiro-capitulo-arte-da-guerra-de-sun.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C12787C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/8531A12808</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/06/primeiro-capitulo-arte-da-guerra-de-sun.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-arte-da-guerra.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/a-arte-da-guerra.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="797">
+		<id>10</id>
+		<titulo>O Príncipe</titulo>
+		<autor>Nicolau Maquiavel</autor>
+		<isbn>978-85-66798-30-2</isbn>
+<cat>Ciências Humanas Sociais, Política, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Ciências Humanas e Sociais</categoria><categoria>Política</categoria>
+		</categorias>
+		<qtdpag>125</qtdpag>
+		<sinopse>O Príncipe, escrito em 1513, é um livro polêmico, perigoso e revolucionário. É um manual para a ação. É a obra-prima de Maquiavel, que é considerado o 'pai' da ciência política, e seus textos são estudados e analisados em escolas e universidades de todo o mundo. Trata-se de um dos tratados políticos mais fundamentais elaborados pelo pensamento humano, e que tem papel crucial na construção do conceito de Estado como modernamente conhecemos.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh4.googleusercontent.com/-lAzZWKtje_k/TtJ2OKDRvRI/AAAAAAAAAaQ/dUKvVs70EeA/s128/cover_principe2.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-principe.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/06/primeiro-capitulo-o-principe-de.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C14147C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/5320O14168</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/06/primeiro-capitulo-o-principe-de.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-principe.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/o-principe.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="987">
+		<id>11</id>
+		<titulo>Guerra e Paz, volume 1</titulo>
+		<autor>Léon Tostói</autor>
+		<isbn>978-85-66798-13-5</isbn>
+<cat>Romance, Literatura Estrangeira, Sociedade Russa, Guerra Napoleônica, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Romance</categoria><categoria>Literatura Estrangeira</categoria><categoria>Sociedade Russa</categoria><categoria>Guerra Napoleônica</categoria>
+		</categorias>
+		<qtdpag>961</qtdpag>
+		<sinopse>A narração desta obra da literatura russa se passa durante a campanha de Napoleão na Áustria, a invasão da Rússia e a retirada das tropas francesas, abarcando de 1805 a 1813. Tolstoi combina romance, epopeia militar e filosofia neste livro. Um dos maiores romances jamais escritos. Trata de um imenso e detalhado painel da sociedade russa durante o tumultuado período das guerras napoleônicas. A riqueza e realismo de seus detalhes assim como suas numerosas descrições psicológicas fazem com que seja considerado um dos maiores livros da História da Literatura.<br />
+Guerra e Paz criou um novo gênero de ficção. Apesar de atualmente ser considerada um romance, esta obra quebrou tantos códigos dos romances da época que diversos críticos não a consideraram como tal.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://2.bp.blogspot.com/-IKzqoZYDj4k/XLpKkrwYEGI/AAAAAAAASBg/ePYJojr0zgEaiOVIqjLz49PylX2mnIEtwCEwYBhgL/s320/minecover_guerrapaz1.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-guerra-e-paz-volume-1.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/08/guerra-e-paz-volume-1.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C18502C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/4206G18523</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-guerra-e-paz-volume-1.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-guerra-e-paz-volume-1.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/08/guerra-e-paz-volume-1.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="988">
+		<id>12</id>
+		<titulo>Guerra e Paz, volume 2</titulo>
+		<autor>Léon Tolstói</autor>
+		<isbn>978-85-66798-14-2</isbn>
+<cat>Romance, Literatura Estrangeira, Sociedade Russa, Guerra Napoleônica, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Romance</categoria><categoria>Literatura Estrangeira</categoria><categoria>Sociedade Russa</categoria><categoria>Guerra Napoleônica</categoria>
+		</categorias>
+		<qtdpag>1011</qtdpag>
+		<sinopse>A narração desta obra da literatura russa se passa durante a campanha de Napoleão na Áustria, a invasão da Rússia e a retirada das tropas francesas, abarcando de 1805 a 1813. Tolstoi combina romance, epopeia militar e filosofia neste livro. Um dos maiores romances jamais escritos. Trata de um imenso e detalhado painel da sociedade russa durante o tumultuado período das guerras napoleônicas. A riqueza e realismo de seus detalhes assim como suas numerosas descrições psicológicas fazem com que seja considerado um dos maiores livros da História da Literatura.<br />
+Guerra e Paz criou um novo gênero de ficção. Apesar de atualmente ser considerada um romance, esta obra quebrou tantos códigos dos romances da época que diversos críticos não a consideraram como tal.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/-zhGk_A81KDU/TtJ0mE3_2MI/AAAAAAAAAZ4/qYS1xNh4VEg/s128/cover_guerrapaz2.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-guerra-e-paz-volume-2.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/08/guerra-e-paz-volume-2.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C18503C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/4433G18524</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-guerra-e-paz-volume-2.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-guerra-e-paz-volume-2.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/08/guerra-e-paz-volume-2.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="989">
+		<id>13</id>
+		<titulo>Guerra e Paz, Edição Completa</titulo>
+		<autor>Léon Tolstói</autor>
+		<isbn>978-85-66798-13-5 e 978-85-66798-14-2</isbn>
+<cat>Romance, Literatura Estrangeira, Sociedade Russa, Guerra Napoleônica, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Romance</categoria><categoria>Literatura Estrangeira</categoria><categoria>Sociedade Russa</categoria><categoria>Guerra Napoleônica</categoria>
+		</categorias>
+		<qtdpag>1972</qtdpag>
+		<sinopse>A narração desta obra da literatura russa se passa durante a campanha de Napoleão na Áustria, a invasão da Rússia e a retirada das tropas francesas, abarcando de 1805 a 1813. Tolstoi combina romance, epopeia militar e filosofia neste livro. Um dos maiores romances jamais escritos. Trata de um imenso e detalhado painel da sociedade russa durante o tumultuado período das guerras napoleônicas. A riqueza e realismo de seus detalhes assim como suas numerosas descrições psicológicas fazem com que seja considerado um dos maiores livros da História da Literatura.<br />
+Guerra e Paz criou um novo gênero de ficção. Apesar de atualmente ser considerada um romance, esta obra quebrou tantos códigos dos romances da época que diversos críticos não a consideraram como tal.</sinopse>
+		<preco>5,99</preco>
+		<linkCapa>https://lh4.googleusercontent.com/-k4kini-O60M/TtJ1H4w6LRI/AAAAAAAAAaA/Qhs7_0le8lo/s128/minecover_guerrapaz.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-guerra-e-paz-edicao-completa.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-guerra-e-paz-edicao.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C18504C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/4510G18525</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-guerra-e-paz-edicao.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-guerra-e-paz-edicao-completa.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/guerra-e-paz-edicao-completa.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1020">
+		<id>14</id>
+		<titulo>O Ateneu</titulo>
+		<autor>Raul Pompeia</autor>
+		<isbn>978-85-66798-07-4</isbn>
+<cat>Romance, Literatura Nacional, Literatura Realista, Romance Impressionista, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Romance</categoria><categoria>Literatura Nacional</categoria><categoria>Romance Realista</categoria><categoria>Romance Impressionista</categoria>
+		</categorias>
+		<qtdpag>197</qtdpag>
+		<sinopse>O Ateneu é um romance do escritor brasileiro Raul Pompeia, considerado como o único exemplar de romance impressionista na literatura brasileira. Neste livro, o personagem Sérgio, já adulto, relembra seu tempo de aluno interno no Colégio Ateneu. Misturando alegrias e tristezas, decepções e entusiasmos, o narrador pacientemente reconstrói, por meio da memória, a adolescência vivida e perdida entre as paredes do famoso internato. Este livro é um rito de passagem, um diário do menino no ambiente fechado do colégio interno...</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh5.googleusercontent.com/-eMvGH3I3TkY/TtJyTFGKLqI/AAAAAAAAAZU/4sES1w8SvOU/s128/o_ateneu_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-ateneu.html</linkSinopse>
+		<linkPrimCptlo>http://carlosalves77.blogspot.com/2011/09/primeiro-capitulo-o-ateneu-de-raul.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C19609C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/4118O19630</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-ateneu.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-ateneu.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/o-ateneu.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1034">
+		<id>15</id>
+		<titulo>Sherlock Holmes em Um Estudo em Vermelho</titulo>
+		<autor>Arthur Conan Doyle</autor>
+		<isbn>978-85-66798-25-8</isbn>
+<cat>Romance, Policial, Suspense, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Romance</categoria><categoria>Policial</categoria><categoria>Suspense</categoria>
+		</categorias>
+		<qtdpag>135</qtdpag>
+		<sinopse>Um Estudo em Vermelho é a primeira história de Sherlock Holmes e o primeiro livro publicado por Sir Arthur Conan Doyle (1859-1930). Muito menos do que um livro de estreia, esta história nasceu clássica, com seu ritmo vertiginoso de suspense e mistério que consagraria seu protagonista Sherlock Holmes como o mais apaixonante e popular detetive da história da literatura. Um estudo em vermelho propõe um enigma terrível e invencível para a polícia, que pede auxílio a Holmes: um homem é encontrado morto, sem ferimentos e cercado de manchas de sangue. Em seu rosto uma expressão de pavor. Um caso para Sherlock Holmes e suas fascinantes deduções narrado por seu amigo Dr. Watson, interlocutor sempre atento e não raro maravilhado com a inteligência e talento do detetive. </sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-9rRYWu6Cv6g/TtJx4vKOBfI/AAAAAAAAAZM/3WIHUzjiIZA/s128/UmEstudoCover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2011/09/sherlock-holmes-em-um-estudo-em.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/09/primeiro-capitulo-sherlock-holmes-em-um.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C20191C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/7914S20212</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/09/primeiro-capitulo-sherlock-holmes-em-um.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-sherlock-holmes-em-um-estudo-em.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/sherlock-holmes-em-um-estudo-em-vermelho.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1073">
+		<id>16</id>
+		<titulo>O Conde de Monte Cristo</titulo>
+		<autor>Alexandre Dumas</autor>
+		<isbn>978-85-66798-15-9</isbn>
+<cat>Romance, Capa e Espada, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Romance</categoria><categoria>Capa e Espada</categoria><categoria>Literatura Universal</categoria>
+		</categorias>
+		<qtdpag>1238</qtdpag>
+		<sinopse>Um romance do Destino. Vítima e vingador, Edmond Dantés, o personagem central, encarna ele próprio, o destino. A história de um homem bom a quem roubam a liberdade e o amor. No cativeiro trava amizade com o abade Faria, que lhe oferece ajuda para a fuga. Um homem que regressará coberto de riquezas, vingador e impiedoso para além de toda a lei humana ou divina. Do gênero literário com clima de aventura e o herói cavalheiresco. Trata da transformação do jovem e destemido imediato de navio Edmund Dantès - encarcerado injustamente por 13 anos na ilha-prisão do Castelo de If por um conluio dos que lhe invejavam a sorte - no implacável Conde de Monte Cristo. É uma impressionante história de sofrimento, vingança e amor. </sinopse>
+		<preco>5,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/-TOMp_K321l4/TtJxLjz9xuI/AAAAAAAAAZE/PLQm0-eMhj4/s128/CondeMonteCristoCover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-conde-de-monte-cristo.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/09/primeiro-capitulo-o-conde-de-monte.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C21175C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/3945O21196</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/09/primeiro-capitulo-o-conde-de-monte.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-conde-de-monte-cristo.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/o-conde-de-monte-cristo.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1101">
+		<id>17</id>
+		<titulo>Os Três Mosqueteiros</titulo>
+		<autor>Alexandre Dumas</autor>
+		<isbn>978-85-66798-20-3</isbn>
+<cat>Romance, Capa e Espada, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Romance</categoria><categoria>Capa e Espada</categoria><categoria>Literatura Universal</categoria>
+		</categorias>
+		<qtdpag>600</qtdpag>
+		<sinopse>Clássico do gênero Capa e Espada. A história se passa na França do século XVII, durante o reinado de Luis XIII. Os três mosqueteiros - Aramis, Porthos, Athos - fazem parte da guarda pessoal do rei e conhecem o novato D'Artagnan em um duelo. Eles se tornarão amigos inseparáveis e lutarão contra os soldados do cardeal Richelieu, inimigo do rei. Dumas teceu as suas ficções sobre uma trama do século XVII. A sua inspiração faz agir e falar Luís XIII e Richelieu, Ana de Áustria e Buckingham, reviver toda uma época em que se sucedem as aventuras dos seus heróis, D'Artagnan, Athos, Porthos, Aramis e essa fascinante Milady, à volta da qual a ação se desenrola com inegável poder dramático.</sinopse>
+		<preco>5,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/-9Z9M4dLwZEo/TtJwZG4n-KI/AAAAAAAAAY8/7XgntXfibOo/s128/OsTresMosqueteiros-Cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-os-tres-mosqueteiros.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/09/primeiro-capitulo-os-tres-mosqueteiros.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C22003C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/7137O22024</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/10/primeiro-capitulo-os-tres-mosqueteiros.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-os-tres-mosqueteiros.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/os-tres-mosqueteiros.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1123">
+		<id>18</id>
+		<titulo>Do Contrato Social</titulo>
+		<autor>Jean-Jacques Russeau</autor>
+		<isbn>978-85-66798-11-1</isbn>
+<cat>Ciências Humanas Sociais, Filosofia, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Ciências Humanas e Sociais</categoria><categoria>Filosofia</categoria>
+		</categorias>
+		<qtdpag>187</qtdpag>
+		<sinopse>Polêmico e controverso, este livro suscitou um debate que dura até os dias de hoje e que atravessa muitos campos do conhecimento humano. Rejeitando a ideia de que qualquer um tem o direito natural de exercer autoridade sobre o outro, Rousseau defende um pacto, o "contrato social", que deveria vigorar entre todos os cidadãos de um Estado e que serviria de fonte para o poder soberano. Aos olhos de Rousseau, é a sociedade que degenera o homem, ele próprio um animal com pendor para o bem.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh5.googleusercontent.com/-P76MYTYuH9s/TtJvtHA2-SI/AAAAAAAAAY0/aWjfoxgTm7U/s128/DoContratoSocial_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-do-contrato-social.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/10/primeiro-capitulo-do-contrato-social-de.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C22434C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/5848D22455</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/10/primeiro-capitulo-do-contrato-social-de.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-do-contrato-social.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/do-contrato-social.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1134">
+		<id>19</id>
+		<titulo>O Processo</titulo>
+		<autor>Franz Kafka</autor>
+		<isbn>978-85-66798-17-3</isbn>
+<cat>Romance, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Romance</categoria><categoria>Literatura Universal</categoria>
+		</categorias>
+		<qtdpag>203</qtdpag>
+		<sinopse>Nesse romance, a ambiguidade onírica do peculiar universo kafkiano e as situações de absurdo existencial chegam a limites insuspeitados. A ação desenvolve-se num clima de sonhos e pesadelos misturado a fatos corriqueiros, que compõem uma trama em que a irrealidade beira a loucura.<br />
+O protagonista deste romance luta do começo ao fim para descobrir do que é acusado, quem o acusa e com base em que lei. Josef K. sempre confrontará a impossibilidade de escolher um caminho que lhe pareça sensato ou lógico, pois o processo de que é vítima segue leis próprias, as leis do arbítrio.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh4.googleusercontent.com/-RLRZVynpLyI/TtJu8sf72rI/AAAAAAAAAYs/vFeVm0m3_64/s128/OProcesso_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-processo_3.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-processo_3.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C22845C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/8957O22866</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-processo.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-processo.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/10/o-processo.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1141">
+		<id>20</id>
+		<titulo>O Castelo</titulo>
+		<autor>Franz Kafka</autor>
+		<isbn>978-85-66798-10-4</isbn>
+<cat>Romance, Literatura Estrangeira, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Romance</categoria><categoria>Literatura Estrangeira</categoria>
+		</categorias>
+		<qtdpag>316</qtdpag>
+		<sinopse>O agrimensor K. chega a uma aldeia coberta de neve e procura abrigo num albergue perto da ponte. O ambiente sombrio e a recepção ambígua dão o tom do que será o romance. No dia seguinte o herói vê, no pico da colina gelada, o castelo: como um aviso sinistro, bandos de gralhas circulam em torno da torre. O personagem, K., nunca conseguirá chegar até o alto, nem os donos do poder permitirão que o faça. Em vez disso, o suposto agrimensor - mesmo a esse respeito não há certeza - busca reivindicar seus direitos a um verdadeiro cortejo de burocratas maliciosos, que o atiram de um lado para outro com argumentos que desenham o labirinto intransponível em que se entrincheira a dominação.<br />
+O Castelo consolidado como um dos pontos mais altos da ficção universal mostra a extensão completa do termo kafkiano.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-Jhs4QaRuI6E/TtJuOvy-cJI/AAAAAAAAAYk/KNDq_8WOle8/s128/OCastelo_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-castelo.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-castelo.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C22972C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/2113O22993</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-castelo.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-castelo.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/10/o-castelo.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1148">
+		<id>21</id>
+		<titulo>Sherlock Holmes em O Cão dos Bakersville</titulo>
+		<autor>Arthur Conan Doyle</autor>
+		<isbn>978-85-66798-16-6</isbn>
+<cat>Aventura, Suspense, Policial, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Aventura</categoria><categoria>Policial</categoria><categoria>Suspense</categoria><categoria>Literatura Universal</categoria>
+		</categorias>
+		<qtdpag>168</qtdpag>
+		<sinopse>O Cão dos Baskerville conta a história do Solar dos Baskerville, que há quinhentos anos abriga a família de mesmo nome. No entanto, à época da morte de Hugo Baskerville por um suposto cão diabólico, ergue-se a lenda de que este mesmo cão negro e com fogo saindo dos olhos e da boca assombra a família, matando cada um de seus membros que se arrisca na perigosa charneca próxima ao solar. Sir Charles Baskerville tem o mesmo destino de Hugo: é morto pelo cão. O terrível animal não precisou nem tocar o homem, mas matou-o de susto, já que Sir Charles sofria do coração.<br />
+Já em 221B Baker Street, o Dr. Mortimer, antigo amigo de Charles, pede ajuda a Holmes para desvendar o mistério do cão dos Baskerville.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-CplmcNd66CE/TtJs4vfWkzI/AAAAAAAAAYU/aXXuFC0D9AY/s128/OCaodosBaskervilles.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-sherlock-holmes-em-o-cao-dos.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-sherlock-holmes-em-o.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C23303C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/2269S23324</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-sherlock-holmes-em-o.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-sherlock-holmes-em-o-cao-dos.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/10/sherlock-holmes-em-o-cao-dos.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1139">
+		<id>22</id>
+		<titulo>Para Onde Foram os Heróis</titulo>
+		<autor>Rody Cáceres</autor>
+		<isbn>n/d</isbn>
+<cat>Poesia, Literatura Contemporânea, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Poesia</categoria><categoria>Literatura Contemporânea</categoria>
+		</categorias>
+		<qtdpag>29</qtdpag>
+		<sinopse>O livro "Para Onde Foram os Heróis?" faz um apanhado da primeira fase do poeta gaúcho Rody Cáceres. Valendo-se de um lirismo que se aproxima da poesia marginal dos anos 70. Rody Cáceres explora os caminhos tortuosos do auto-questionamento, da desconstrução do artista e da poesia marginal. Uma leitura rápida e marcante. A poesia marginal e urbana exala de suas linhas. O rock e a geração Beat estão entre as inspirações do autor que leva para seus versos a indignação da contra-cultura.</sinopse>
+		<preco>6,90</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-SwWNIrqYfHE/TtJtdKVoejI/AAAAAAAAAYc/MVN8FlExVX0/s128/ParaOndeForamosHerois_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-para-onde-foram-os-herois.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-para-onde-foram-os.html</linkPrimCptlo>
+		<linkComprar>https://go.hotmart.com/R23380C</linkComprar>
+		<linkRecrutamento></linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-para-onde-foram-os.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-para-onde-foram-os-herois.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/10/lancamento-para-onde-foram-os-herois-de.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1154">
+		<id>23</id>
+		<titulo>Razão e Sensibilidade</titulo>
+		<autor>Jane Austen</autor>
+		<isbn>978-85-66798-24-1</isbn>
+<cat>Romance, Drama, Literatura Estrangeira, Livro Digital</cat>
+		<categorias>
+			<categoria>Romance</categoria><categoria>Livro Digital</categoria><categoria>Drama</categoria><categoria>Literatura Estrangeira</categoria>
+		</categorias>
+		<qtdpag>377</qtdpag>
+		<sinopse>Razão e sensibilidade é a história de duas irmãs - Elinor e Marianne, respectivamente a "racional" e a "sensível" -, as quais, em razão do falecimento do pai, têm de se adaptar a um estilo de vida mais modesto, em meio a uma sociedade inteiramente dirigida pelo status social. Elas têm uma jovem irmã, Margaret, e um meio-irmão mais velho, John. Quando seu pai morre, a propriedade da família passa para John, o único filho homem, e as mulheres Dashwood se vêem em circunstâncias adversas.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh4.googleusercontent.com/-ByPcINu36o4/TtJsMPKRk1I/AAAAAAAAAYA/ntRz90XOy0Y/s128/RazaoSensibilidade.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-razao-e-sensibilidade.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-razao-e-sensibilidade.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C23503C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/9517R23524</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-razao-e-sensibilidade.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-razao-e-sensibilidade.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/10/razao-e-sensibilidade.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1172">
+		<id>24</id>
+		<titulo>Elementais: O Receptáculo do Caos</titulo>
+		<autor>Daniel Cavalcante</autor>
+		<isbn>n/d</isbn>
+<cat>Aventura, Ação, Ficção, Light Novel, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Aventura</categoria><categoria>Ação</categoria><categoria>Ficção</categoria><categoria>Light Novel</categoria>
+		</categorias>
+		<qtdpag>n/d</qtdpag>
+		<sinopse>A vida dos irmãos Gabriel e Felipe está prestes a mudar drasticamente, graças a um jogo proibido, conhecido por Elemental, sobre o qual se ouve todo tipo de boatos no bairro da Orla das Gaivotas.<br />
+Riko e Rumiko Hiroshima são duas irmãs japonesas misteriosas que estão à procura de pessoas como elas. Poderosas.<br />
+Sérgio e Léo são os amigos que apresentaram aos irmãos uma nova realidade. Uma verdadeira amizade, ameaçada por uma terrível profecia.<br />
+Eles despertaram. Agora, fazem parte de uma guerra entre duas grandes forças.<br />
+Ainda perturbados pela morte do irmão mais velho, os Schroeder tentarão impedir o caos e se redimir de erros do passado. Para isso, terão de enfrentar criaturas que jamais imaginaram existir, ao lado de novos aliados, e lidar com novas descobertas que irão abalar tudo o que tinham como verdade.</sinopse>
+		<preco>7,40</preco>
+		<linkCapa>https://lh5.googleusercontent.com/-Aahr7fbuuq4/TtJrSHtqQNI/AAAAAAAAAXg/qMVu1Gz-18E/s128/capa3delementais150.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2011/10/elementais-o-receptaculo-do-caos.html</linkSinopse>
+		<linkPrimCptlo></linkPrimCptlo>
+		<linkComprar>https://go.hotmart.com/D24622C</linkComprar>
+		<linkRecrutamento></linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-elementais-o.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-elementais-o-receptaculo-do-caos.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/10/elementais-o-receptaculo-do-caos.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="1195">
+		<id>25</id>
+		<titulo>Guerra dos Mundos</titulo>
+		<autor>H. G. Wells</autor>
+		<isbn>978-85-66798-05-0</isbn>
+<cat>Aventura, Ficção Científica, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Ficção Científica</categoria><categoria>Aventura</categoria><categoria>Literatura Universal</categoria>
+		</categorias>
+		<qtdpag>201</qtdpag>
+		<sinopse>Por tempos, os homens foram estudados à distância pelos marcianos, que nos observavam como quem analisa micróbios por um microscópio. No final do século XIX, entretanto, eles partem para a Terra e aterrissam nos arredores de Londres. À primeira vista, os marcianos parecem risíveis: mal conseguem se mover, e não saem da cratera criada pela aterrissagem de sua espaçonave.<br />
+Mas, conforme seus corpos começam a se acostumar com a gravidade terrestre, revelam também seu verdadeiro poder. Os marcianos são máquinas biomecânicas assassinas com mais de 30 metros de altura, que destroem tudo a sua volta. Aniquilando toda tentativa de retaliação do exército britânico, rapidamente eles chegam à capital britânica, que é evacuada às pressas por uma população desesperançada.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/--OUMkIk_TFU/TtJqsHn8EkI/AAAAAAAAAXY/OT4KCCf_RBU/s128/GuerradosMundos_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-guerra-dos-mundos.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-guerra-dos-mundos.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C24821C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/5789G24842</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-guerra-dos-mundos.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-guerra-dos-mundos.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/11/guerra-dos-mundos.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="3319">
+		<id>26</id>
+		<titulo>Sherlock Holmes em O Signo dos Quatro</titulo>
+		<autor>Arthur Conan Doyle</autor>
+		<isbn>978-85-66798-19-7</isbn>
+<cat>Aventura, Suspense, Policial, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Aventura</categoria><categoria>Policial</categoria><categoria>Suspense</categoria><categoria>Literatura Universal</categoria>
+		</categorias>
+		<qtdpag>125</qtdpag>
+		<sinopse>O signo dos quatro é um romance policial escrito por Sir Arthur Conan Doyle. É a segunda história da saga do detetive Sherlock Holmes.<br />
+Nesta história, uma moça de nome Mary Morstan, procura pelo serviço do detetive, para desvendar o que aconteceu ao seu pai. Ele morreu dez anos antes de moça procurar o detetive. Quatro anos após a morte do pai, a moça começa a receber anualmente uma pérola de grande valor. Após seis anos recebendo essas pérolas, sem saber o motivo nem quem as mandava, a moça recebe um bilhete da mesma pessoa que lhe enviava as pérolas, marcando um encontro. Para ajudá-la a desvendar os mistérios, ela pede pelos serviços de Sherlock Holmes e de seu fiel assistente Dr. Watson.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-w01qknv_kzw/UICYD-2zgiI/AAAAAAAAA6k/QNey9-d4qtI/s512/OSignodosQuatro_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-sherlock-holmes-em-o-signo-dos.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-sherlock-holmes-em-o_3.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C119992C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/3921S120013</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-sherlock-holmes-em-o_18.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-sherlock-holmes-em-o-signo-dos.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2012/10/sherlock-holmes-em-o-signo-dos-quatro.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="3404">
+		<id>27</id>
+		<titulo>Sherlock Holmes em O Vale do Terror</titulo>
+		<autor>Arthur Conan Doyle</autor>
+		<isbn>978-85-66798-21-0</isbn>
+<cat>Aventura, Suspense, Policial, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Livro Digital</categoria><categoria>Aventura</categoria><categoria>Policial</categoria><categoria>Suspense</categoria><categoria>Literatura Universal</categoria>
+		</categorias>
+		<qtdpag>181</qtdpag>
+		<sinopse>A história do assassinato de um homem com uma arma que explodiu o rosto da vítima, se entrelaça com a narrativa da vida de um corajoso jovem do oeste americano. Sherlock Holmes analisa meticulosamente o corpo, o local do crime e as pessoas relacionadas, chegando ainda na primeira parte do livro a uma conclusão. A segunda parte é usada para descrever as circunstâncias em que se deu a história.<br />
+Este livro é uma trama desenhada, com um final muito inesperado, um livro que o leitor, por mais que tente adivinhar o final, não conseguirá descobrir o que o aguarda. É também um bom livro para ponderarmos o poder do Prof. Moriarte, como este vilão está presente em todas as tramas de maneira oculta, mas o leitor atento verá que ele está lá, desde o primeiro crime, até o último.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-vd1xPNwCZfs/UISWAV2ZjHI/AAAAAAAAA7Q/kJjBpxPeJLk/s512/OValedoTerror.JPG</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-sherlock-holmes-em-o-vale-do.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-sherlock-holmes-em-o_83.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C124472C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/5999S124493</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-sherlock-holmes-em-o_87.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-sherlock-holmes-em-o-vale-do.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2012/10/sherlock-holmes-em-o-vale-do-terror.html</linkSimplesCP>
+		</ebook>	
+		<ebook ID="6990">
+		<id>28</id>
+		<titulo>A Ilha do Tesouro</titulo>
+		<autor>Robert Louis Stevenson</autor>
+		<isbn>978-85-66798-02-9</isbn>
+<cat>Aventura, Pirata, Literatura Universal, Livro Digital</cat>
+		<categorias>
+			<categoria>Aventura</categoria><categoria>Pirata</categoria><categoria>Literatura Universal</categoria><categoria>Livro Digital</categoria>
+		</categorias>
+		<qtdpag>217</qtdpag>
+		<sinopse>A Ilha do Tesouro é um dos clássicos da literatura escrito por Robert Louis Stevenson em 1883, livro sobre piratas e tesouros enterrados. Nele, um garoto chamado Jim Hawkins cujos pais são proprietários e moradores de uma pequena pensão (mais conhecida como Hospedaria Almirante Benbow), numa cidade litorânea da Inglaterra, vive diversas aventuras após a chegada de um velho lobo do mar. Diversos fatos vão acontecendo, até que o jovem menino (e narrador da história) se vê em um navio indo em busca de um tesouro. Daí para frente é muita ação e aventura.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://2.bp.blogspot.com/-LdCw-tgzsoA/TfAPY1vMLaI/AAAAAAAAALw/-a7TUBvYTs0/s400/cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-ilha-do-tesouro.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/05/primeiro-capitulo-ilha-do-tesouro-de.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C337915C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/8855A337936</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/05/primeiro-capitulo-ilha-do-tesouro-de.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-ilha-do-tesouro.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/a-ilha-do-tesouro.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="6993">
+		<id>29</id>
+		<titulo>Admirável Mundo Novo</titulo>
+		<autor>Aldous Huxley</autor>
+		<isbn>978-85-66798-29-6</isbn>
+<cat>Ficção Científica, Romance, Utopia, Clonagem</cat>
+		<categorias>
+			<categoria>Ficção Científica</categoria><categoria>Romance</categoria><categoria>Utopia</categoria><categoria>Clonagem</categoria>
+		</categorias>
+		<qtdpag>210</qtdpag>
+		<sinopse>Admirável Mundo Novo (Brave New World na versão original em língua inglesa) é um livro escrito por Aldous Huxley e publicado em 1932 que narra um hipotético futuro onde as pessoas são pré-condicionadas biologicamente e condicionadas psicologicamente a viverem em harmonia com as leis e regras sociais, dentro de uma sociedade organizada por castas. A sociedade desse ?futuro? criado por Huxley não possui a ética religiosa e valores morais que regem a sociedade atual. Qualquer dúvida e insegurança dos cidadãos era dissipada com o consumo da droga sem efeitos colaterais chamada 'soma'. As crianças têm educação sexual desde os mais tenros anos da vida. O conceito de família também não existe.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/-6chL7WCXkEY/TtJ25xHY4YI/AAAAAAAAAaY/XfU_sSytRBQ/s128/minecover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/04/admiravel-mundo-novo.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/06/primeiro-capitulo-admiravel-mundo-novo.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C338118C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/9286A338139</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/06/primeiro-capitulo-mundo-novo-de-aldous.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-admiravel-mundo-novo.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/admiravel-mundo-novo.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="6994">
+		<id>30</id>
+		<titulo>Alice no País das Maravilhas</titulo>
+		<autor>Lewis Carrol</autor>
+		<isbn>978-85-66798-08-1</isbn>
+<cat>Aventura, Fantasia, Literatura Universal, Surrealismo</cat>
+		<categorias>
+			<categoria>Aventura</categoria><categoria>Fantasia</categoria><categoria>Literatura Universal</categoria><categoria>Surrealismo</categoria>
+		</categorias>
+		<qtdpag>87</qtdpag>
+		<sinopse>Alice cai numa toca de coelho que a transporta para um lugar fantástico povoado por criaturas peculiares e antropomórficas, revelando uma lógica do absurdo característica dos sonhos. Contém referências linguísticas e matemáticas frequentemente através de enigmas que contribuíram para a sua popularidade. É assim uma obra de difícil interpretação pois contém dois livros num só texto: um para crianças e outro para adultos.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://3.bp.blogspot.com/-2fIQ9frjTvg/XLnk4veQDlI/AAAAAAAASAo/9NE5loOhzdwlQ5NkjN_Ihg6nJhHCtysagCLcBGAs/s1600/minecovergif.gif</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-alice-no-pais-das-maravilhas.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/05/primeiro-capitulo-alice-no-pais-das.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C338149C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/9392A338170</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2011/05/primeiro-capitulo-no-pais-das.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-alice-no-pais-das-maravilhas.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/alice-no-pais-das-maravilhas.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="11781">
+		<id>31</id>
+		<titulo>As Aventuras de Huckleberry Finn</titulo>
+		<autor>Mark Twain</autor>
+		<isbn>978-85-66798-42-5</isbn>
+<cat>Literatura estrangeira, Aventura, Romance</cat>
+		<categorias>
+			<categoria>Literatura Estrangeira</categoria><categoria>Aventura</categoria><categoria>Romance</categoria>
+		</categorias>
+		<qtdpag>272</qtdpag>
+		<sinopse>Lançado em 1885 como sequência de As aventuras de Tom Sawyer (1876), a história de Huck Finn, no entanto, ganhou autonomia: é unanimemente considerada a obra-prima de Mark Twain e mudou para sempre o imaginário dos Estados Unidos. Para se livrar do pai bêbado e violento, Huckleberry Finn se refugia em uma pequena ilha do rio Mississippi, onde se alia com Jim, um escravo fugido. Em busca de liberdade, a inusitada dupla se lança numa viagem pelo leito do rio, às margens da sociedade pré-Guerra Civil. Muitas vezes alvo de polêmicas, Huck Finn não cessa de suscitar reflexões sobre o absurdo da humanidade.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-1K5iQuZtAYs/UgpjAiXkZCI/AAAAAAAABG8/DiArwSYPgic/w402-h575-no/Huck+Finn.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/04/sinopse-as-aventuras-de-huckleberry-finn.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/04/sinopse-as-aventuras-de-huckleberry-finn.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C738012C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/0131A738033</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-as-aventuras-de.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-as-aventuras-de-huckleberry-finn.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/08/as-aventuras-de-huckleberry-finn.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="11717">
+		<id>32</id>
+		<titulo>As Aventuras de Tom Sawyer</titulo>
+		<autor>Mark Twain</autor>
+		<isbn>978-85-66798-43-2</isbn>
+<cat>Literatura estrangeira, Aventura, Romance</cat>
+		<categorias>
+			<categoria>Literatura Estrangeira</categoria><categoria>Aventura</categoria><categoria>Romance</categoria>
+		</categorias>
+		<qtdpag>293</qtdpag>
+		<sinopse>Tom Sawyer, o imortal personagem de Mark Twain, um menino astuto, mostra-se tão à vontade no mundo respeitável de sua tia Polly quanto no mundo aventureiro e desprotegido de seu amigo Huck Finn. Os dois vivem uma série de aventuras, acidentalmente presenciando um assassinato e provando a inocência do homem injustamente acusado. Embora originalmente escrito como história de aventura para jovens, este livro é muito mais do que isto, é um mergulho na vida do interior dos Estados Unidos, especialmente na região do "imenso Mississippi", na metade do século XIX. Através das trepidantes aventuras de Tom e Huck, Mark Twain coloca em evidência sua grande habilidade de escritor, seu senso de justiça e sua posição antiescravagista.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-owjMaBABttI/UghKzOkW7VI/AAAAAAAABGI/b8ivc6STSPE/w402-h575-no/TomSawyer.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/04/sinopse-as-aventuras-de-tom-sawyer.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/04/primeiro-capitulo-as-aventuras-de-tom.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C733175C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/6352A733196</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-as-aventuras-de-tom.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-as-aventuras-de-tom-sawyer.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/08/as-aventuras-de-tom-sawyer.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="8652">
+		<id>33</id>
+		<titulo>Ben-Hur</titulo>
+		<autor>Lew Wallace</autor>
+		<isbn>978-85-66798-45-6</isbn>
+<cat>Romance histórico, Épico, Literatura estrangeira</cat>
+		<categorias>
+			<categoria>Romance histórico</categoria><categoria>Épico</categoria><categoria>Literatura estrangeira</categoria>
+		</categorias>
+		<qtdpag>223</qtdpag>
+		<sinopse>O romance épico 'Ben-Hur - Uma História dos Tempos de Cristo', publicado em 1880, com a intenção de ser uma narrativa moral e inspiracional, a vida de Judá Ben-Hur corre paralela com a vida do Cristo, seu contemporâneo. A história se passa num mundo fortemente romanizado. 'Ben-Hur' é um grande épico cujo núcleo central é a fé e a busca da vida espiritual. Na Jerusalém do início do século I, Judah Ben-Hur, um rico comerciante judeu, aguardava a chegada do romano Messala, seu amigo de infância. Contudo, visões políticas divergentes fizeram com que Messala condenasse o ex-amigo a viver como escravo, mesmo sabendo de sua inocência. O destino daria a Ben-Hur uma oportunidade de vingança.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-sV4HLs9qv6o/UYcLBEpOYsI/AAAAAAAABEE/NpDt8CRMyzU/w353-h504/Ben-Hur.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/04/ben-hur.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-ben-hur.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C504533C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/5400B504554</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-ben-hur.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-ben-hur.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/05/ben-hur.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="6996">
+		<id>34</id>
+		<titulo>Caninos Brancos</titulo>
+		<autor>Jack London</autor>
+		<isbn>978-85-66798-27-2</isbn>
+<cat>Aventura, Literatura Universal, Juvenil</cat>
+		<categorias>
+			<categoria>Aventura</categoria><categoria>Juvenil</categoria><categoria>Literatura universal</categoria>
+		</categorias>
+		<qtdpag>221</qtdpag>
+		<sinopse>Este livro conta a história do cão lobo que abandona a solidão gelada do extremo norte canadense para a "civilização". Nascido na natureza, na gelada região do Ártico, o lobo Caninos Brancos foi domesticado ainda filhote. Desde seus primeiros passos, ele teve que encarar grandes desafios e enfrentar a crueldade dos homens e de outros animais. Dividido entre o desejo de se adaptar à civilização e o irresistível chamado da floresta, o corajoso lobo acaba aprendendo a sobreviver no mundo selvagem dos seres humanos.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/-3dvp5Va5knc/TtJplrHhDgI/AAAAAAAAAXI/vQEKNNgf9FY/s128/CaninosBrancos_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-caninos-brancos.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-caninos-brancos.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C338198C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/9479C338219</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-caninos-brancos.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-caninos-brancos.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/11/caninos-brancos.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="6997">
+		<id>35</id>
+		<titulo>Casa de Pensão</titulo>
+		<autor>Aluísio Azevedo</autor>
+		<isbn>978-85-66798-09-8</isbn>
+<cat>Romance, Literatura Nacional, Realismo, Naturalismo</cat>
+		<categorias>
+			<categoria>Romance</categoria><categoria>Literatura Nacional</categoria><categoria>Realismo</categoria><categoria>Naturalismo</categoria>
+		</categorias>
+		<qtdpag>281</qtdpag>
+		<sinopse>Amâncio de Vasconcelos, um jovem maranhense, vem para o Rio de Janeiro com o propósito de realizar o curso de Medicina. De início hospeda-se em casa de um conhecido da família, Luís Campos, que vive com a mulher, D. Maria Hortência. Entretanto, Amâncio encontra-se com um amigo e co-provinciano, Paiva Rocha, e passa a viver uma vida desvairada e boêmia. As extravagâncias de chegar altas horas da noite, faltar às aulas, embebedar-se, não lhe eram permitidas em casa de Campos. Levado por esse e outros motivos, resolve ele mudar-se para a pensão de João Coqueiro, onde é incapaz de perceber as ciladas que lhe são armadas pelos proprietários. O romance foi inspirando em um caso verídico: a Questão Capistrano, crime que sensibilizou o Rio em 1876, envolvendo dois estudantes.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://4.bp.blogspot.com/-55IwSyMvs_c/XLpR1SCPLLI/AAAAAAAASCY/H_PKKFvDCYk93FBYa9Z6Uo_cJ7mh46WNQCLcBGAs/s1600/minecover_CasadePensao.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-casa-de-pensao.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2011/09/primeiro-capitulo-casa-de-pensao-de.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C338235C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/9542C338256</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-casa-de-pensao.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-casa-de-pensao.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/casa-de-pensao.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="12751">
+		<id>36</id>
+		<titulo>Crime e Castigo</titulo>
+		<autor>Fiódor Dostoiévski</autor>
+		<isbn>978-85-66798-40-1</isbn>
+<cat>Suspense, Thriller Psicológico, Romance, Literatura estrangeira</cat>
+		<categorias>
+			<categoria>Romance</categoria><categoria>Suspense</categoria><categoria>Thriller Psicológico</categoria><categoria>Literatura estrangeira</categoria>
+		</categorias>
+		<qtdpag>587</qtdpag>
+		<sinopse>Publicado em 1866, Crime e Castigo é considerado o maior clássico dos Thrillers psicológicos, bem recebido em uma grande diversidade de idiomas e culturas, encantando o público das mais variadas orientações ideológicas, de ateus a cristãos fanáticos, de políticos conservadores a radicais. Estudante e homicida constantemente seguido pela sombra da memória do seu crime. Temos um romance que narra à história de Raskolnikov. Está presente na obra de Dostoiévski, o amor, julgamento, paixão, razão, crime e o castigo.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/HUlkjwduMDtYURI44dCN-jVGGDepMTM1TgvSP_Jiz40=w400-h575-no</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/04/sinopse-crime-e-castigo.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/04/primeiro-capitulo-crime-e-castigo.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C855223C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/8154C855244</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-crime-e-castigo.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-crime-e-castigo.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/08/crime-e-castigo.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="9973">
+		<id>37</id>
+		<titulo>Ivanhoé</titulo>
+		<autor>Walter Scott</autor>
+		<isbn>978-85-66798-44-9</isbn>
+<cat>Romance histórico, Literatura estrangeira, Ação, Suspense</cat>
+		<categorias>
+			<categoria>Romance histórico</categoria><categoria>Suspense</categoria><categoria>Ação</categoria><categoria>Literatura estrangeira</categoria>
+		</categorias>
+		<qtdpag>491</qtdpag>
+		<sinopse>Ivanhoé é um romance do escritor escocês Walter Scott, publicado em 1820. Narra a luta entre saxões e normandos e as intrigas de João sem Terra para destronar Ricardo Coração de Leão. É considerado o primeiro romance histórico do romantismo. Nele os valores da cavalaria medieval são enaltecidos, assim como o heroísmo inglês. O jovem e destemido Ivanhoé é deserdado pelo pai por ter acompanhado o rei Ricardo Coração de Leão em sua cruzada à Terra Santa. Na Inglaterra feudal, luta por liberdade e justiça. Embora protagonizado pelo cavaleiro Wilfred de Ivanhoé, são os personagens quase anônimos que encontram maior destaque do que este, a exemplo de Brian de Bois Guilbert, um templário, vilão que engendra várias maldades.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/-daSX8d0H5xo/UdCBN-h7w8I/AAAAAAAABFg/YGhyWT7Pkek/w402-h574-no/Ivanhoe.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/04/ivanhoe.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/04/primeiro-capitulo-ivanhoe.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C562554C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/8338I562575</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-ivanhoe.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-ivanhoe.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/07/ivanhoe.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="361486">
+		<id>38</id>
+		<titulo>Jane Eyre</titulo>
+		<autor>Charlotte Brontë</autor>
+		<isbn>978-85-66798-51-7</isbn>
+<cat>Romance</cat>
+		<categorias>
+			<categoria>Romance</categoria>
+		</categorias>
+		<qtdpag>507</qtdpag>
+		<sinopse>Jane Eyre, órfã de pai e mãe, vive com parentes que a desprezam até ser enviada para a instituição de caridade Lowood. Apesar das inúmeras privações que enfrenta na escola, a menina leva uma vida quase feliz e se torna forte e independente. Aos 18 anos, decide partir para Thornfield e trabalhar como preceptora de Adèle, pupila do irônico e arrogante Edward Rochester. Apesar de possuir ainda vários elementos da literatura gótica, tais como a ambientação em castelos, o clima de mistério sugerido pelo segredo do passado, a tragicidade dos personagens, o período histórico do gótico já havia terminado, e Charlotte Brontë não tem sido considerada dentro desse tipo de literatura.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh3.googleusercontent.com/-GFpbHOzD2NE/VexXfwnw7cI/AAAAAAAACfk/5SxKgBFFkMA/s512-Ic42/JaneEyre_cover.JPG</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-jane-eyre.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-jane-eyre.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/V12566937C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/3298J12566958</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP></linkPrimCptloCP>
+		<linkSinopseCP></linkSinopseCP>
+		<linkSimplesCP></linkSimplesCP>
+		</ebook>
+		<ebook ID="7181">
+		<id>39</id>
+		<titulo>Moby Dick</titulo>
+		<autor>Herman Melville</autor>
+		<isbn>978-85-66798-51-7</isbn>
+<cat>Aventura, História do Mar, Literatura Estrangeira, Romance, Versão Condensada</cat>
+		<categorias>
+			<categoria>Romance</categoria><categoria>Aventura</categoria><categoria>Literatura estrangeira</categoria><categoria>História do Mar</categoria><categoria>Versão Condensada</categoria>
+		</categorias>
+		<qtdpag>161</qtdpag>
+		<sinopse>Versão condensada. Este livro traz o relato de um marinheiro letrado, Ishmael, sobre a última viagem de um navio baleeiro de Nantucket, o Pequod, que parte da costa leste dos Estados Unidos rumo ao Pacífico Sul, onde encontra o imenso cachalote branco que, no passado, arrancara a perna do vingativo capitão Ahab. Ao longo dos capítulos, Herman Melville explora diversos gêneros literários para compor sua história, da narrativa de viagens ao teatro shakespeareano, do sermão à poesia popular, passando pela descrição científica e a meditação filosófica.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh5.googleusercontent.com/-XzN46GnYz9U/UVnbr54n54I/AAAAAAAAA-0/JQs1gAV9cQw/s531/cover_MobyDick.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-moby-dick.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-moby-dick.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C357108C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/2696M357129</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-moby-dick.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-moby-dick.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/04/moby-dick.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="7446">
+		<id>40</id>
+		<titulo>O Andarilho das Estrelas</titulo>
+		<autor>Jack London</autor>
+		<isbn>978-85-66798-36-4</isbn>
+<cat>Literatura Estrangeira, Romance, Aventura</cat>
+		<categorias>
+			<categoria>Romance</categoria><categoria>Aventura</categoria><categoria>Literatura estrangeira</categoria><categoria>História do Mar</categoria>
+		</categorias>
+		<qtdpag>276</qtdpag>
+		<sinopse>Inspirado pelo relato verídico de um ex-detento da penitenciária de San Quentin, o livro versa sobre um prisioneiro do começo do século vinte que aprende um meio para escapar à tortura da camisa de força a que era constantemente submetido. Através de técnicas de auto-hipnose, concentração mental e extremo domínio da vontade, ele consegue produzir o fenômeno que os parapsicólogos chamam de 'desdobramento' e que, na linguagem mística, é conhecido por 'viagem astral'. Ao entrar nesse estado de consciência, ele não apenas supera a dor física, como também alcança uma outra dimensão: a viagem às suas vidas passadas, às suas encarnações anteriores.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/-RIveME3w8xY/UWX_ica4AII/AAAAAAAABBs/oQ7G2l0KNec/s531/OAndarilhodasEstrelas.JPG</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-andarilho-das-estrelas.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-andarilho-das.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C390819C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/8617O390840</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-andarilho-das.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-andarilho-das-estrelas.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/04/o-andarilho-das-estrelas.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="11963">
+		<id>41</id>
+		<titulo>O Grande Gatsby</titulo>
+		<autor>F. Scott Fitzgerald</autor>
+		<isbn>978-85-66798-41-8</isbn>
+<cat>Romance americano, Literatura estrangeira</cat>
+		<categorias>
+			<categoria>Romance americano</categoria><categoria>Literatura estrangeira</categoria>
+		</categorias>
+		<qtdpag>159</qtdpag>
+		<sinopse>Este clássico do século XX retrata a alta sociedade de Nova York na década de 1920, com sua riqueza sem precedentes, festas nababescas e o encanto das melindrosas ao som do jazz. O sol em ascensão desse universo cintilante e musical é o enigmático milionário Gatsby, ao redor do qual orbitam três casais glamorosos e desencontrados, numa trama densa, repleta de intrigas, paixões e conflitos que precipitam o trágico eclipse. Recriação soberba de um dos períodos mais prósperos da história dos Estados Unidos, "O Grande Gatsby" é uma crítica mordaz à insensibilidade e imoralidade revestidas de ouro da chamada Era do Jazz, e um dos melhores romances - talvez o melhor - já escritos nesse país.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh5.googleusercontent.com/-W1wRaj26Go4/Ug_x8KH_2sI/AAAAAAAABHQ/VDU0sfJ3dEg/w381-h548-no/OGrandeGatsby.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/04/sinopse-o-grande-gatsby.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/04/primeiro-capitulo-o-grande-gatsby.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C753499C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/6889O753520</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-grande-gatsby.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-grande-gatsby.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/08/o-grande-gatsby.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="7002">
+		<id>42</id>
+		<titulo>O Lobo do Mar</titulo>
+		<autor>Jack London</autor>
+		<isbn>978-85-66798-28-9</isbn>
+<cat>Aventura, Literatura Estrangeira, Romance, História do Mar</cat>
+		<categorias>
+			<categoria>Romance</categoria><categoria>Literatura estrangeira</categoria><categoria>Aventura</categoria><categoria>História do Mar</categoria>
+		</categorias>
+		<qtdpag>276</qtdpag>
+		<sinopse>Jack London cria, nesta obra, a abismal luta entre o bem e o mal. A rigorosa análise psicológica das situações e dos personagens faz com que O Lobo do Mar (1904) transcenda o mero romance de aventuras.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh4.googleusercontent.com/-iAVL6YubDAM/UT06V2zwNeI/AAAAAAAAA-U/ty7yUy1v7lQ/s504/cover_OLoboDoMar.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-lobo-do-mar.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-lobo-do-mar.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C338895C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/0038O338916</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-lobo-do-mar.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-lobo-do-mar.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/04/o-lobo-do-mar.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="7650">
+		<id>43</id>
+		<titulo>O Misterioso Caso de Styles</titulo>
+		<autor>Agatha Christie</autor>
+		<isbn>978-85-66798-35-7</isbn>
+<cat>Suspense, Policial</cat>
+		<categorias>
+			<categoria>Suspense</categoria><categoria>Policial</categoria>
+		</categorias>
+		<qtdpag>150</qtdpag>
+		<sinopse>No meio da madrugada, a rica proprietária da mansão Styles é encontrada morta em sua cama, aparentemente vítima de um ataque cardíaco. As portas do quarto estavam trancadas por dentro e tudo indicava morte natural. Mas o médico da família levanta uma suspeita: assassinato por envenenamento. Todos os hóspedes da velha mansão tinham motivos para matar a Sra. Inglethorp e nenhum deles possuía um álibi convincente. Para solucionar o crime entra em ação o detetive Hercule Poirot, irresistível personagem criado por Agatha Christie, que faz a sua estréia neste caso intrigante. Um marco da literatura policial e um dos maiores romances do gênero.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh4.googleusercontent.com/-lXXDBwEzfZ4/UWr1rYIN9bI/AAAAAAAABCM/qLpjszoQMlk/s450/OMisteriosoCasoStyles.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-misterioso-caso-de-styles.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-misterioso-caso-de.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C419302C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/5736O419323</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-misterioso-caso-de.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-misterioso-caso-de-styles.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/04/o-misterioso-caso-de-styles.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="7180">
+		<id>44</id>
+		<titulo>O Monstro Branco</titulo>
+		<autor>Bram Stoker</autor>
+		<isbn>978-85-66798-39-5</isbn>
+<cat>Terror, Literatura Fantástica</cat>
+		<categorias>
+			<categoria>Terror</categoria><categoria>Literatura Fantástica</categoria>
+		</categorias>
+		<qtdpag>175</qtdpag>
+		<sinopse>Sobre O Monstro Branco surge a indagação: e se a terra ocultasse ainda monstruosos sobreviventes das Priscas Eras? Se o Mal se desencadeasse com força insuspeitável? O autor aqui nos narra a história de uma luta - aquela do Bem Contra o Mal. Uma récita "iniciadora" mas também um grande romance da literatura fantástica e de terror anglo-saxônica à procura de uma "aurora dourada": o homem tem que enfrentar o horror extremo e dele se libertar pela ação. Um livro para se ler entre as linhas, um autor, Bram Stoker, a se redescobrir para melhor se compreender.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/-1tsXJ9zalNk/UUYLk5ZbWYI/AAAAAAAAA-k/is_5gY_GpRs/s531/coverOMonstro.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-monstro-branco.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-monstro-branco.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C356968C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/2328O356989</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-monstro-branco.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-monstro-branco.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/04/o-monstro-branco.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="74588">
+		<id>45</id>
+		<titulo>O Morro dos Ventos Uivantes</titulo>
+		<autor>Emily Brontë</autor>
+		<isbn>978-85-66798-49-4</isbn>
+<cat>Romance</cat>
+		<categorias>
+			<categoria>Romance</categoria>
+		</categorias>
+		<qtdpag>329</qtdpag>
+		<sinopse>Na fazenda chamada Morro dos Ventos Uivantes nasce uma paixão devastadora entre Heathcliff e Catherine, amigos de infância e cruelmente separados pelo destino. Mas a união do casal é mais forte do que qualquer tormenta: um amor proibido que deixará rastros de ira e vingança. "Meu amor por Heathcliff é como uma rocha eterna. Eu sou Heathcliff", diz a apaixonada Cathy. O único romance escrito por Emily Brontë é uma das histórias de amor mais belas de todos os tempos, O Morro dos Ventos Uivantes é um clássico da literatura inglesa e tornou-se o livro favorito de milhares de pessoas.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/-1tsXJ9zalNk/UUYLk5ZbWYI/AAAAAAAAA-k/is_5gY_GpRs/s531/coverOMonstro.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-morro-dos-ventos-uivantes.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-morro-dos-ventos.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/A3497057Q</linkComprar>
+		<linkRecrutamento>#</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP></linkPrimCptloCP>
+		<linkSinopseCP></linkSinopseCP>
+		<linkSimplesCP></linkSimplesCP>
+		</ebook>
+		<ebook ID="7008">
+		<id>46</id>
+		<titulo>O Retrato de Dorian Gray</titulo>
+		<autor>Oscar Wilde</autor>
+		<isbn>978-85-66798-01-2</isbn>
+<cat>Romance, Literatura Estrangeira</cat>
+		<categorias>
+			<categoria>Romance</categoria><categoria>Literatura Estrangeira</categoria>
+		</categorias>
+		<qtdpag>223</qtdpag>
+		<sinopse>Neste livro, o belo jovem Dorian Gray torna-se modelo para uma pintura do artista Basil Hallward. O pintor apresenta Dorian ao Lorde Henry Wotton, que o faz tomar consciência de sua beleza e do valor de sua juventude e o inicia num mundo de vícios e desregramento. Apaixonado pela própria imagem e influenciado pelas palavras de Lorde Henry, Dorian deseja permanecer eternamente belo como no retrato. Misteriosamente, seu desejo é atendido.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh6.googleusercontent.com/--5CgTlYxlPk/UT0wk6n-baI/AAAAAAAAA-M/kbvcfg6I3yk/s504/DorianGray.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-retrato-de-dorian-gray.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-retrato-de-dorian.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C339298C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/0803O339319</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-retrato-de-dorian.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-retrato-de-dorian-gray.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/04/o-retrato-de-dorian-gray.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="7183">
+		<id>47</id>
+		<titulo>O Senhor das Moscas</titulo>
+		<autor>William Golding</autor>
+		<isbn>978-85-66798-01-2</isbn>
+<cat>Aventura, Literatura Estrangeira, Romance, Sobrevivência, Alegoria</cat>
+		<categorias>
+			<categoria>Aventura</categoria><categoria>Literatura Estrangeira</categoria><categoria>Romance</categoria><categoria>Sobrevivência</categoria><categoria>Alegoria</categoria>
+		</categorias>
+		<qtdpag>168</qtdpag>
+		<sinopse>Em "O senhor das Moscas", primeiro e mais conhecido romance de William Golding, trinta meninos são os únicos a se salvar de um naufrágio em que morrem todos os adultos. Enquanto tratam de sobreviver nessas condições, não tardam a criar dois grupos com os respectivos líderes. Ralph torna-se o cabeça dos que se dispõem a construir refúgios e dedicar-se à colheita, enquanto Jack se converte no chefe dos caçadores, animados por um espírito mais aventureiro. As tensões entre os bandos desembocam em enfrentamento. O senhor das moscas aborda a contraposição entre civilização e barbárie, o valor da disciplina, entre outros temas.</sinopse>
+		<preco>5,99</preco>
+		<linkCapa>https://lh5.googleusercontent.com/-8IEJL9mdEDE/UVzDta_GV_I/AAAAAAAAA_U/0MH5jtyfSX8/s531/OSenhordasMoscas.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-senhor-das-moscas.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-senhor-das-moscas.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C357205C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/2928O357226</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-senhor-das-moscas.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-senhor-das-moscas.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/04/o-senhor-das-moscas.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="8125">
+		<id>48</id>
+		<titulo>O Tesouro de Franchard</titulo>
+		<autor>Robert Louis Stevenson</autor>
+		<isbn>978-85-66798-33-3</isbn>
+<cat>Suspense, Literatura estrangeira</cat>
+		<categorias>
+			<categoria>Suspense</categoria><categoria>Literatura Estrangeira</categoria>
+		</categorias>
+		<qtdpag>69</qtdpag>
+		<sinopse>O Doutor Desprez já foi rico e vivia em Paris, no entanto, ele gastou todo o seu dinheiro, agora vive sem muitas posses e morando no interior, vivendo em uma casa confortável. Eles decidem agarrar a oportunidade de adotar um órfão. O Dr. Desprez acha que o dinheiro não é tudo, porque há mais coisas importantes na vida. Em uma manhã, contudo, ele encontra um tesouro escondido e toda a sua pacata vida é virada do avesso.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh5.googleusercontent.com/-X0rFolDxv90/UYGAhIoAIBI/AAAAAAAABDs/9ptC8S-OIV0/w335-h504/OTesourodeFranchard.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-tesouro-de-franchard.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-tesouro-de-franchard.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C473455C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/4403O473476</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-tesouro-de-franchard.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-tesouro-de-franchard.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/05/o-tesouro-de-franchard.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="8662">
+		<id>49</id>
+		<titulo>Olalla</titulo>
+		<autor>Robert Louis Stevenson</autor>
+		<isbn>978-85-66798-32-6</isbn>
+<cat>Terror, Sobrenatural, Literatura Estrangeira</cat>
+		<categorias>
+			<categoria>Terror</categoria><categoria>Sobrenatural</categoria><categoria>Literatura Estrangeira</categoria>
+		</categorias>
+		<qtdpag>46</qtdpag>
+		<sinopse>Uma obra arrepiante de Robert Louis Stevenson. A história é baseada em algumas crenças comuns de sua época, quando acreditava-se que a loucura é hereditária. Ela gira mais em torno da idéia de vampirismo e sede de sangue. Com elementos góticos e eventos horríveis este é um trabalho muito envolvente.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh5.googleusercontent.com/-LTkIWUKv3VE/UXRpJWk41VI/AAAAAAAABC4/e_LbHfW5l3k/s504/Olalla.JPG</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-olalla.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-olalla.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C505179C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/8207O505200</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-olalla.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-olalla.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/04/olalla.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="13663">
+		<id>50</id>
+		<titulo>Uma Princesa de Marte</titulo>
+		<autor>Edgar Rice Burroughs</autor>
+		<isbn>978-85-66798-46-3</isbn>
+<cat>Ficção Científica, Literatura estrangeira</cat>
+		<categorias>
+			<categoria>Ficção Científica</categoria><categoria>Literatura Estrangeira</categoria>
+		</categorias>
+		<qtdpag>314</qtdpag>
+		<sinopse>O capitão John Carter, combatente do exército confederado, tenta recomeçar sua vida após perder tudo o que possuía com o fim da Guerra Civil Americana. Ele só não poderia imaginar que seu caminho o levaria a terras desconhecidas em outro planeta. Apesar da aparência inóspita, Marte é repleto de vida, com uma flora peculiar e fauna diversificada, habitada por estranhas raças constantemente em guerra umas com as outras. Capturado pelos temíveis tharks, John Carter luta por sua liberdade e busca conquistar o amor de Dejah Thoris, princesa de Helium. Numa jornada repleta de contratempos, ele se envolve em disputas entre as diversas tribos de Barsoom (como o planeta é chamado por seus habitantes), fazendo poderosos inimigos e ganhando a confiança de importantes aliados.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh5.googleusercontent.com/-c8B21soYh2M/UjSO9BcLjEI/AAAAAAAABJA/S1mKFHqMTn4/w423-h575-no/Uma_Princesa_de_Marte.JPG</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/04/sinopse-uma-princesa-de-marte.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/04/primeiro-capitulo-uma-princesa-de-marte.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C978980C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/9788U979001</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-uma-princesa-de-marte.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-uma-princesa-de-marte.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/09/uma-princesa-de-marte.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="7249">
+		<id>51</id>
+		<titulo>Vate, a última semana de um Poeta...</titulo>
+		<autor>Carlos Alves</autor>
+		<isbn>978-85-66798-37-1</isbn>
+<cat>Poesia, Literatura Contemporânea</cat>
+		<categorias>
+			<categoria>Poesia</categoria><categoria>Literatura Contemporânea</categoria>
+		</categorias>
+		<qtdpag>50</qtdpag>
+		<sinopse>A exposição dos fatos ocorridos durante a última semana antes da morte do Poeta Carlos Vate, baseado em suas próprias poesias-testemunhos encontradas após seu falecimento. "Papéis avulsos, folhas amassadas, rabiscadas, algumas queimadas, dilaceradas, faltando versos inteiros. Foram necessários vários meses catalogando, ordenando cronologicamente, inventariando e reconstituindo, reconstruindo versos perdidos, queimados, rasgados... tanto que não sei mais distinguir os versos de Vate e quais são os meus... nos tornamos simbionte, bebendo nos versos um do outro... Poesia a quatro mãos.</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://lh5.googleusercontent.com/-xdpw_oRqZJk/UV9RK9LVPbI/AAAAAAAABBc/iQkJnfisOmI/s531/cover_Vate.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-vate-ultima-semana-de-um-poeta.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-vate-ultima-semana-de.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C363419C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/8864V363440</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-vate-ultima-semana-de.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-vate-ultima-semana-de-um-poeta.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/04/vate-ultima-semana-de-um-poeta.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="1297">
+		<id>52</id>
+		<titulo>Vinte Mil Léguas Submarinas</titulo>
+		<autor>Júlio Verne</autor>
+		<isbn>978-85-66798-00-5</isbn>
+<cat>Aventura, Juvenil, Literatura Universal, Ficção Científica</cat>
+		<categorias>
+			<categoria>Aventura</categoria><categoria>Juvenil</categoria><categoria>Literatura Universal</categoria><categoria>Ficção Científica</categoria>
+		</categorias>
+		<qtdpag>251</qtdpag>
+		<sinopse>Um misterioso monstro vem assombrando os oceanos. Destruindo navios e matando seus tripulantes. Uma expedição parte em busca de respostas. É atacada e três homens são lançados ao mar. O Professor Aronnax, Conselho e Ned Land acabam sendo resgatados pelo suposto monstro, que descobrem tratar-se de um submarino. Seu comandante, o capitão Nemo, salva-os da morte, mas quer torná-los prisioneiros para sempre. Os três não imaginavam quantas aventuras e perigos iriam passar nesta cruzada pelos mares...</sinopse>
+		<preco>4,99</preco>
+		<linkCapa>https://4.bp.blogspot.com/-Y_tztJ8mYrA/XLnlskyBziI/AAAAAAAASAw/h14AmzDskKoitTZJsDHJ2gHailm1mVuYgCLcBGAs/s1600/VinteMilLeguas_cover.jpg</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-vinte-mil-leguas-submarinas.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-vinte-mil-leguas.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C27689C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/4720V27710</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-vinte-mil-leguas.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-vinte-mil-leguas-submarinas.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2011/11/vinte-mil-leguas-submarinas.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="7795">
+		<id>53</id>
+		<titulo>O Médico e o Monstro</titulo>
+		<autor>Robert Louis Stevenson</autor>
+		<isbn>978-85-66798-34-0</isbn>
+<cat>Drama, Horror, Thriller, Horror Psicológico</cat>
+		<categorias>
+			<categoria>Drama</categoria><categoria>Horror</categoria><categoria>Thriller</categoria><categoria>Horror Psicológico</categoria>
+		</categorias>
+		<qtdpag>84</qtdpag>
+		<sinopse>Aqui se inicia uma das mais célebres histórias de horror da literatura mundial: a história assustadora do infernal alter ego do respeitado Dr. Jekyll, que se transformava no assassino cruel Edward Hyde. Esta obra traz à vida uma história sobre a natureza humana e a dualidade entre o bem e o mal. O livro acompanha a investigação do advogado Gabriel John Utterson sobre as estranhas ocorrências com seu amigo Dr. Henry Jekyll, um homem recatado, elegante, que protege, até depois de sua morte, Edward Hyde, um criminoso de feições grosseiras e hábitos assustadores.</sinopse>
+		<preco>3,99</preco>
+		<linkCapa>https://lh4.googleusercontent.com/-o1351Ukt3Mo/UXKiuOAMXxI/AAAAAAAABCo/2kKos7hiNWs/s531/OMedicoeoMonstro.gif</linkCapa>
+		<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-o-medico-e-o-monstro.html</linkSinopse>
+		<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-o-medico-e-o-monstro.html</linkPrimCptlo>
+		<linkComprar>https://pay.hotmart.com/C443879C</linkComprar>
+		<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/6384O443900</linkRecrutamento>
+		<hotreview></hotreview>
+		<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-o-medico-e-o-monstro.html</linkPrimCptloCP>
+		<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-o-medico-e-o-monstro.html</linkSinopseCP>
+		<linkSimplesCP>https://cromossomospalavras.blogspot.com/2013/04/o-medico-e-o-monstro.html</linkSimplesCP>
+		</ebook>
+		
+		<ebook ID="74857">
+			<id>54</id>
+			<titulo>Emma</titulo>
+			<autor>Jane Austen</autor>
+			<isbn>978-85-66798-52-4</isbn>
+		<cat>Romance, Drama, Literatura Estrangeira.</cat>
+			<categorias>
+				<categoria>Romance</categoria><categoria>Drama</categoria><categoria>Literatura estrangeira</categoria>
+			</categorias>
+			<qtdpag>449</qtdpag>
+			<sinopse>Emma Woodhouse é uma mulher rica e aparentemente esnobe, mas no fundo, sua maior ambição na vida é ver os outros felizes. Quando decide que tem o talento para formar novos casais, passa a trabalhar de cupido na pequena aldeia inglesa de Hartfield. Emma foca suas atenções em Harriet Smith e em meio à busca de pretendentes para a amiga se mete em diversas confusões, sempre resgatada pelo amigo, o cavalheiro sr. Knightley.</sinopse>
+			<preco>4,99</preco>
+			<linkCapa>https://lh3.googleusercontent.com/-0GfNj3J4d_o/VexYBHAXNUI/AAAAAAAACgE/8lZtaQ7g8oU/s512-Ic42/Emma_cover.jpg</linkCapa>
+			<linkSinopse>https://carlosalves77.blogspot.com/2019/05/sinopse-emma.html</linkSinopse>
+			<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/05/primeiro-capitulo-emma.html</linkPrimCptlo>
+			<linkComprar>https://app.monetizze.com.br/checkout/KRD59190</linkComprar>
+			<linkRecrutamento></linkRecrutamento>
+			<hotreview></hotreview>
+			<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/05/primeiro-capitulo-emma.html</linkPrimCptloCP>
+			<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/05/sinopse-emma.html</linkSinopseCP>
+			<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/05/emma.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="78167">
+			<id>55</id>
+			<titulo>A Ilha Misteriosa</titulo>
+			<autor>Júlio Verne</autor>
+			<isbn></isbn>
+		<cat>Ação, Aventura, Ficção, Ficção Científica.</cat>
+			<categorias>
+				<categoria>Ação</categoria><categoria>Aventura</categoria><categoria>Ficção</categoria><categoria>Ficção Científica</categoria>
+			</categorias>
+			<qtdpag>173</qtdpag>
+			<sinopse>Durante a Guerra Civil americana, em 1865, cinco homens fogem de um campo de prisioneiros. Partem em um balão e enfrentam terrível tempestade. Caindo ao mar, têm a sorte de encontrar uma ilha. Trata-se de uma ilha deserta, perdida no Pacífico. Enquanto os cinco náufragos lutam pela sobrevivência, sem saber o que o futuro lhes reserva, uma força invisível parece se manifestar nos momentos mais dramáticos. E fatos inexplicáveis começam a ocorrer... A ciência, mais uma vez, ganha destaque nesta obra de Júlio Verne. Homem à frente de seu tempo, já no século 19 o escritor francês previa as viagens espaciais e a invenção da bomba atômica.</sinopse>
+			<preco>4,99</preco>
+			<linkCapa>https://1.bp.blogspot.com/-ugyAj7CL9DM/XQrDvmoMdYI/AAAAAAAASoA/3GlSCk_mkP45UC1EdJkJ78Srds1oHxlXgCLcBGAs/s1600/coverAIlhaMisteriosa.jpg</linkCapa>
+			<linkSinopse>https://carlosalves77.blogspot.com/2019/06/sinopse-ilha-misteriosa.html</linkSinopse>
+			<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/06/primeiro-capitulo-ilha-misteriosa.html</linkPrimCptlo>
+			<linkComprar>https://app.monetizze.com.br/checkout/PUA78167</linkComprar>
+			<linkRecrutamento></linkRecrutamento>
+			<hotreview></hotreview>
+			<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/06/primeiro-capitulo-ilha-misteriosa.html</linkPrimCptloCP>
+			<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/06/sinopse-ilha-misteriosa.html</linkSinopseCP>
+			<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/06/a-ilha-misteriosa.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="78286">
+			<id>56</id>
+			<titulo>A Letra Escarlate</titulo>
+			<autor>Nathaniel Hawthorne</autor>
+			<isbn></isbn>
+		<cat>Romance, Histórico, Romance Histórico.</cat>
+			<categorias>
+				<categoria>Romance</categoria><categoria>Histórico</categoria><categoria>Romance Histórico</categoria>
+			</categorias>
+			<qtdpag>264</qtdpag>
+			<sinopse>Na rígida comunidade puritana de Boston do século XVII, a jovem Hester Prynne tem uma relação adúltera que termina com o nascimento de uma criança ilegítima. Desonrada e renegada publicamente, ela é obrigada a levar sempre a letra 'A' de adúltera bordada em seu peito. Hester usa sua força interior e de sua convicção de espírito para criar a filha sozinha, lidar com a volta do marido e proteger o segredo acerca da identidade de seu amante.</sinopse>
+			<preco>4,99</preco>
+			<linkCapa>https://1.bp.blogspot.com/-DB3pjVa46VI/XQt-kdxLt9I/AAAAAAAASoY/2-obkIL3SOo1V5XKRvo6dbkcsLYc-8uVwCLcBGAs/s1600/coverALetraEscarlate.jpg</linkCapa>
+			<linkSinopse>https://carlosalves77.blogspot.com/2019/06/sinopse-letra-escarlate.html</linkSinopse>
+			<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/06/primeiro-capitulo-letra-escarlate.html</linkPrimCptlo>
+			<linkComprar>https://app.monetizze.com.br/checkout/PPK78286</linkComprar>
+			<linkRecrutamento></linkRecrutamento>
+			<hotreview></hotreview>
+			<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/06/primeiro-capitulo-letra-escarlate.html</linkPrimCptloCP>
+			<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/06/sinopse-letra-escarlate.html</linkSinopseCP>
+			<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/06/a-letra-escarlate.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="78454">
+			<id>57</id>
+			<titulo>A Volta do Parafuso</titulo>
+			<autor>Henry James</autor>
+			<isbn></isbn>
+		<cat>Suspense, Terror.</cat>
+			<categorias>
+				<categoria>Suspense</categoria><categoria>Terror</categoria>
+			</categorias>
+			<qtdpag>129</qtdpag>
+			<sinopse>Na rígida comunidade puritana de Boston do século XVII, a jovem Hester Prynne tem uma relação adúltera que termina com o nascimento de uma criança ilegítima. Desonrada e renegada publicamente, ela é obrigada a levar sempre a letra 'A' de adúltera bordada em seu peito. Hester usa sua força interior e de sua convicção de espírito para criar a filha sozinha, lidar com a volta do marido e proteger o segredo acerca da identidade de seu amante.</sinopse>
+			<preco>4,99</preco>
+			<linkCapa>https://1.bp.blogspot.com/-1naPatuwRvc/XQ4_ZOr79EI/AAAAAAAASpY/9gN0As4QoDk0-zIRKvu6TmCsAwD0aZTOwCLcBGAs/s1600/cover_AVoltadoParafuso.png</linkCapa>
+			<linkSinopse>https://carlosalves77.blogspot.com/2019/06/sinopse-volta-do-parafuso.html</linkSinopse>
+			<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/06/primeiro-capitulo-volta-do-parafuso.html</linkPrimCptlo>
+			<linkComprar>https://app.monetizze.com.br/checkout/PLV78454</linkComprar>
+			<linkRecrutamento></linkRecrutamento>
+			<hotreview></hotreview>
+			<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/06/primeiro-capitulo-volta-do-parafuso.html</linkPrimCptloCP>
+			<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/06/sinopse-volta-do-parafuso.html</linkSinopseCP>
+			<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/06/a-volta-do-parafuso.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="79058">
+			<id>58</id>
+			<titulo>Ao Farol</titulo>
+			<autor>Virginia Woolf</autor>
+			<isbn></isbn>
+		<cat>Romance, Literatura Universal, Literatura Estrangeira.</cat>
+			<categorias>
+				<categoria>Romance</categoria><categoria>Literatura Universal</categoria><categoria>Literatura Estrangeira</categoria>
+			</categorias>
+			<qtdpag>217</qtdpag>
+			<sinopse>Sra. Ramsay, uma mulher madura, bela, maternal e serena; sr. Ramsay, um renomado e árido filósofo; os filhos e criados do casal; Lily Briscoe, amiga da família e aspirante a pintora. Todos estão passando o verão na Ilha de Skye, na Escócia, cercados por outros amigos e conhecidos. James Ramsay, de seis anos, anseia por um prometido passeio ao farol da ilha, enquanto recorta figuras de um catálogo na companhia da mãe. Com essa cena de abertura, em si trivial, Virginia Woolf construiu um dos mais influentes romances do século XX, segundo críticos e leitores. Ao farol é um romance rico, multifacetado, cujos vários e combinados aspectos compõem a marca da grande obra-prima. Por um lado, representa ricamente seu tempo, revelando a vida de uma família inglesa abastada, a ameaça soturna da guerra, a tensão subjacente às relações familiares e os conflitos entre homens e mulheres; por outro lado, constitui-se numa delicada e pungente filigrana ficcional, sobre a inevitabilidade da passagem do tempo e da morte; propõe uma jornada ao interior da consciência dos personagens, num novo estilo narrativo; e, por último, como é próprio das grandes realizações artísticas, reflete sobre a própria natureza da arte.</sinopse>
+			<preco>4,99</preco>
+			<linkCapa>https://1.bp.blogspot.com/-RwocsXFjiPE/XRdu_n-xmUI/AAAAAAAASwg/rOwIyRQZFAYIE4IR5f2ypsN-E0Xh0sTmACLcBGAs/s1600/coverAoFarol.jpg</linkCapa>
+			<linkSinopse>https://carlosalves77.blogspot.com/2019/06/sinopse-ao-farol.html</linkSinopse>
+			<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/06/primeiro-capitulo-ao-farol.html</linkPrimCptlo>
+			<linkComprar>https://app.monetizze.com.br/checkout/PBL79058</linkComprar>
+			<linkRecrutamento></linkRecrutamento>
+			<hotreview></hotreview>
+			<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/06/primeiro-capitulo-ao-farol.html</linkPrimCptloCP>
+			<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/06/sinopse-ao-farol.html</linkSinopseCP>
+			<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/06/ao-farol.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="79673">
+			<id>59</id>
+			<titulo>Da Terra à Lua</titulo>
+			<autor>Júlio Verne</autor>
+			<isbn></isbn>
+		<cat>Aventura, Ficção Científica.</cat>
+			<categorias>
+				<categoria>Aventura</categoria><categoria>Ficção Científica</categoria>
+			</categorias>
+			<qtdpag>180</qtdpag>
+			<sinopse>Após a Guerra de Secessão, os Estados Unidos entram num longo período de paz, o que preocupa demais os membros do Clube do Canhão. Afinal, o que farão das suas vidas sem nenhuma guerrinha onde poderiam exercitar todas suas habilidades e conhecimentos bélicos, principlamente na criação de balas e canhões? Mas a monotonia não dura muito, pois o excelentíssimo Sr. Impey barbicane, presidente do Clube do Canhão, já tem planos muito bem traçados para o futuro. Planos que literalmente vão da Terra á Lua. Todos os membros do Clube sao convocados para trabalhar em prol desse plano, construindo um canhão que seja capaz de lançar um projétil tripulado até a Lua. Mas eles não contavam com alguns pequenos, porém complicados, problemas.</sinopse>
+			<preco>4,99</preco>
+			<linkCapa>https://1.bp.blogspot.com/-7kOgZp3iplM/XR_cMyPsiqI/AAAAAAAAS0M/NIr9l8-Q8XEjmlYSOSUlPC-yUrTF4wkcACLcBGAs/s1600/coverDaTerraaLua.jpg</linkCapa>
+			<linkSinopse>https://carlosalves77.blogspot.com/2019/07/sinopse-da-terra-lua.html</linkSinopse>
+			<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/07/primeiro-capitulo-da-terra-lua.html</linkPrimCptlo>
+			<linkComprar>https://app.monetizze.com.br/checkout/PYW79673</linkComprar>
+			<linkRecrutamento></linkRecrutamento>
+			<hotreview></hotreview>
+			<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/07/primeiro-capitulo-da-terra-lua.html</linkPrimCptloCP>
+			<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/07/sinopse-da-terra-lua.html</linkSinopseCP>
+			<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/07/da-terra-lua.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="79854">
+			<id>60</id>
+			<titulo>Ela, A Feiticeira</titulo>
+			<autor>Henry Rider Haggard</autor>
+			<isbn></isbn>
+		<cat>Aventura, Fantasia, Romance, Gótico.</cat>
+			<categorias>
+				<categoria>Aventura</categoria><categoria>Fantasia</categoria><categoria>Romance</categoria><categoria>Gótico</categoria>
+			</categorias>
+			<qtdpag>294</qtdpag>
+			<sinopse>O livro narra as aventuras de Leo Vincey e Horace Holly numa região inexplorada da África, onde encontram uma civilização perdida obediente a uma misteriosa feiticeira chamada Ela. O livro tornou-se a obra mais popular de Haggard, tendo vendido mais de 83 milhões de cópias ao longo do tempo, deixando para trás outro grande clássico de Haggard, as "As Minas do Rei Salomão".</sinopse>
+			<preco>4,99</preco>
+			<linkCapa>https://1.bp.blogspot.com/-WAAaQHEXPqA/XSPQWMoetPI/AAAAAAAAS2U/08SuivQ_pgMkaEYRsxN5F_aYOqMFn0cugCLcBGAs/s1600/coverEla.jpg</linkCapa>
+			<linkSinopse>https://carlosalves77.blogspot.com/2019/07/sinopse-ela-feiticeira.html</linkSinopse>
+			<linkPrimCptlo>https://carlosalves77.blogspot.com/2019/07/primeiro-capitulo-ela-feiticeira.html</linkPrimCptlo>
+			<linkComprar>https://app.monetizze.com.br/checkout/PHZ79854</linkComprar>
+			<linkRecrutamento></linkRecrutamento>
+			<hotreview></hotreview>
+			<linkPrimCptloCP>https://cromossomospalavras.blogspot.com/2019/07/primeiro-capitulo-ela-feiticeira.html</linkPrimCptloCP>
+			<linkSinopseCP>https://cromossomospalavras.blogspot.com/2019/07/sinopse-ela-feiticeira.html</linkSinopseCP>
+			<linkSimplesCP>https://cromossomospalavras.blogspot.com/2019/07/ela-feiticeira.html</linkSimplesCP>
+		</ebook>
+		<ebook ID="">
+			<id>61</id>
+			<titulo>Orlando</titulo>
+			<autor>Virginia Woolf</autor>
+			<isbn></isbn>
+		<cat>Romance, Literatura Estrangeira, Literatura Universal.</cat>
+			<categorias>
+				<categoria>Romance</categoria><categoria>Literatura Estrangeira</categoria><categoria>Literatura Universal</categoria>
+			</categorias>
+			<qtdpag>190</qtdpag>
+			<sinopse>Nascido no seio de uma família de boa posição em plena Inglaterra elisabetana, Orlando acorda com um corpo feminino durante uma viagem à Turquia. Como é dotado de imortalidade, sua trajetória então atravessa mais de três séculos, ultrapassando as fronteiras físicas e emocionais entre os gêneros masculino e feminino. Suas ambiguidades, temores, esperanças, reflexões - tudo é observado com inteligência e sensibilidade nesta narrativa que permanece como uma das mais fecundas discussões sobre a sexualidade humana. A um só tempo cômico e lírico, Orlando mostra o trajeto do personagem entre embates com armas brancas, acalorados debates filosóficos no século XVIII, a maternidade e até mesmo num volante a bordo de um automóvel.</sinopse>
+			<preco>4,99</preco>
+			<linkCapa>https://1.bp.blogspot.com/-r2reUCFaR6o/XS0d-YXddcI/AAAAAAAAS6w/b2dTNUMN1VIfwCBUornZJdgnlZz7Y3pYACLcBGAs/s1600/Orlando_cover.png</linkCapa>
+			<linkSinopse></linkSinopse>
+			<linkPrimCptlo></linkPrimCptlo>
+			<linkComprar></linkComprar>
+			<linkRecrutamento></linkRecrutamento>
+			<hotreview></hotreview>
+			<linkPrimCptloCP></linkPrimCptloCP>
+			<linkSinopseCP></linkSinopseCP>
+			<linkSimplesCP></linkSimplesCP>
+		</ebook>
+		<ebook ID="3887165">
+			<id>62</id>
+			<titulo>Cruzada</titulo>
+			<autor>Carlos Alves &amp; Walon Green</autor>
+			<isbn></isbn>
+		<cat>Aventura, Ação, Romance Histórico.</cat>
+			<categorias>
+				<categoria>Aventura</categoria><categoria>Ação</categoria><categoria>Romance Histórico</categoria>
+			</categorias>
+			<qtdpag>119</qtdpag>
+			<sinopse>O ano é 1095 d.C. e um prisioneiro condenado à morte consegue escapar da forca encenando um milagre queimando uma cruz em sua própria costa, algo que o Papa Urbano II testemunha e usa a seu favor em seu plano de levar uma Cruzada para a Terra Santa, instigando multidões a pegar em armas para libertar Jerusalém dos mouros. Este prisioneiro recém-liberto irá passar por batalhas travadas nos flancos dos exércitos Cruzados, onde a sua luta pela sobrevivência é constante e em meio ao caos de batalhas épicas e sangrentas, ele ainda precisa ajudar uma princesa árabe a fugir de seu próprio povo. Um épico de fé e sangue,  que denota uma verdade cruel: judeus, cristãos e muçulmanos poderiam conviver e adorar livremente se não fosse pela luxúria e ganância de alguns poderosos.</sinopse>
+			<preco>9,90</preco>
+			<linkCapa>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXKX-7K9uN-qpEAjrfzWT2ITsSTgLMLDx21e8JjXr_F_tbVlw-VnrNDhc33qVeKivWXTxbSrSjgODEW2RySaInVP1PPc1SzjxooiCnuQ2-1FOeELhGoYtAOjI3s9N9IcOYwQH0VhXAUJdrXiD7zweFI2MlZg1noqzuc9BNT4Th8KD-U_MLhESuolPNKLI/s320/capaCruzada.jpg</linkCapa>
+			<linkSinopse>https://carlosalves77.blogspot.com/2024/03/sinopse-cruzada.html</linkSinopse>
+			<linkPrimCptlo>https://carlosalves77.blogspot.com/2024/03/primeiro-capitulo-cruzada.html</linkPrimCptlo>
+			<linkComprar>https://pay.hotmart.com/D91352732A</linkComprar>
+			<linkRecrutamento>https://app-vlc.hotmart.com/affiliate-recruiting/view/3786C91352753</linkRecrutamento>
+			<hotreview></hotreview>
+			<linkPrimCptloCP></linkPrimCptloCP>
+			<linkSinopseCP></linkSinopseCP>
+			<linkSimplesCP></linkSimplesCP>
+			
+		</ebook>
+	</ebooks>
